@@ -24,4 +24,4 @@ heart_file
 #renamed columns
 # Cholesterol now in ascending values
 
-
+## EDA
