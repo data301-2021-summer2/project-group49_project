@@ -2,6 +2,10 @@
 
 ## Describe your topic/interest in about 150/200 words.
 Heart disease is one of the leading causes of mortality for men, women, and people of most racial and ethnic groups in the United States. Clinical data analysis is an important asset in predicting possible cardiovascular diseases. The large collection of raw healthcare data is manipulated into useful information through data mining; the process of analyzing large batches of information to recognize trends and patterns which can be used by physicians to make informed predictions and necessary medical interventions. Overall, about 655,000 Americans die from heart disease each year, this accounts for one in every four deaths. As the field of medicine evolves, professionals are expected to become more efficient and experience increased pressures to become more productive in both patient care and research. In recent decades, there have been many technological advancements that are better at predicting cardiovascular disease, such as the heart monitoring data system in the Apple Watch. 
+Moreover, I'd like to set forth the following research questions for my project:
+1. Are women more likely to get a heart attack than men?
+2. Do higher cholesterol levels increase the chance of a person having a heart attack?
+3. What variable relationships result in a heart attack?
 
 ## Describe your dataset in about 150-200 words.
 
