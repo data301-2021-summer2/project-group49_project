@@ -1,0 +1,1 @@
+This directory will contain any images used for my project

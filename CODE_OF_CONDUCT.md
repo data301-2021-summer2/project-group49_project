@@ -1,0 +1,1 @@
+As I am working alone, I will manage my time accordingly and hold myself accountable for all work that goes into this project.
